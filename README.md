@@ -1,3 +1,10 @@
+
+# Entendendo Funcionalidades da Ver. 1.0
+
+Esse projeto foi feito para testar a criação de um banco de dados de um sistema de cadastro de Ordens de Serviço. Ele possui páginas de Login, Logon, dashboard inicial com os chamados, página de cadastro de clientes, página de edição de perfil e página de cadastro de novos chamados.
+
+Falta a implementação do modal de edição do chamado.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
